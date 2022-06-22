@@ -21,7 +21,7 @@ img{
 .wrapper{
   max-width: 600px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #ffc0cb;
   padding: 10px;
   border-radius: 5px;
   box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
@@ -54,7 +54,7 @@ h2.title{
 ul.history_list li{
   list-style: none;
   display: flex;
-  border-bottom: 1px dotted #ccc;/* 下線の点線 */
+  border-bottom: 1px dotted #ff1493;/* 下線の点線 */
   margin-bottom: 1em;
   padding-bottom: 0.2em;
 }
